@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Network Engineering Projects:</h2>
 
-- [Cisco Certified Network Associate(CCNA 200 - 301) ](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Cisco Certified Network Associate(CCNA 200 - 301) ](https://github.com/KennyShyne/Network-Engineering-Projects)
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
