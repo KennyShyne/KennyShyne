@@ -1,4 +1,4 @@
-<h1>Hi there, <a href="https://www.linkedin.com/in/Shine-k/"> I'm Shine😄! <br/><a href="https://github.com/KennyShyne/Network-Engineering">Network Engineer</a>, <a href="https://github.com/KennyShyne/CyberSecurity-Projects">Cybersecurity Professional</a>, <a href="https://github.com/KennyShyne/Cloud-Projects">Cloud Practitioner</a>
+<h1>Hi there, <a href="https://www.linkedin.com/in/Shine-k/"> I'm Shine😄! <br/><a href="https://github.com/KennyShyne/Network-Engineering-Projects.git">Network Engineer</a>, <a href="https://github.com/KennyShyne/CyberSecurity-Projects.git">Cybersecurity Professional</a>, <a href="https://github.com/KennyShyne/Cloud-Projects.git">Cloud Practitioner</a>
 
 <h2>👨‍💻 Network Engineering Projects:</h2>
 
