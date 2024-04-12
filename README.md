@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shine! <br/><a href="https://github.com/KennyShyne">Network Engineer</a>, <a href="https://www.linkedin.com/in/Shynekenny/">Cybersecurity Professional</a>, Cloud Practitioner
+<h1>Hi there, <a href="https://www.linkedin.com/in/Shine-k/"> I'm Shine😄! <br/><a href="https://github.com/KennyShyne">Network Engineer</a>, <a href="https://github.com/KennyShyne">Cybersecurity Professional</a>, <a href="https://github.com/KennyShyne">Cloud Practitioner</a>
 
 <h2>👨‍💻 Network Engineering Projects:</h2>
 
