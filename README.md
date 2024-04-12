@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2> 
 
-- <b>Lab Overview and Setup</b>
+- <b>My Attack and Defense Home Lab Overview and Setup</b>
 
 - <b>Blue Teaming</b>
 
