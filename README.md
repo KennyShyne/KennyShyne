@@ -1,17 +1,13 @@
 <h1>Hi there, <a href="https://www.linkedin.com/in/Shine-k/"> I'm Shine😄! <br/><a href="https://github.com/KennyShyne/Network-Engineering-Projects.git">Network Engineer</a>, <a href="https://github.com/KennyShyne/CyberSecurity-Projects.git">Cybersecurity Professional</a>, <a href="https://github.com/KennyShyne/Cloud-Projects.git">Cloud Practitioner</a>
 
-<h2>👨‍💻 Network Engineering Projects:</h2> 
+<h2>👨‍💻 Network Engineering Project:</h2> 
 
 - [Cisco Certified Network Associate(CCNA 200 - 301) ](https://github.com/KennyShyne/Network-Engineering-Projects)
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2> 
+<h2>👨‍💻 Cybersecurity Project:</h2> 
 
-- <b>My Attack and Defense Home Lab Overview and Setup</b>
-
-- <b>Blue Teaming</b>
-
-- <b>Red Teaming</b>
+- [My Attack and Defense Home Lab Overview and Setup) ](https://github.com/KennyShyne/CyberSecurity-Projects)
 
 - <b>Web Applications Security</b>
 
