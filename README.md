@@ -5,7 +5,7 @@
 - [Cisco Certified Network Associate(CCNA 200 - 301) ](https://github.com/KennyShyne/Network-Engineering-Projects)
 
 
-<h2>👨‍💻 Cybersecurity Project:</h2> 
+<h2>👨‍💻 Cybersecurity Projects:</h2> 
 
 - [My Attack and Defense Home Lab Overview and Setup) ](https://github.com/KennyShyne/CyberSecurity-Projects)
 
@@ -14,20 +14,12 @@
 - <b>Mobile Security</b>
 
 
-
 <h2>👨‍💻 Cloud Projects:</h2>
 
 
 <h2>👨‍💻 Programming Projects:</h2>
- 
-- [Python: Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)  
 
-
-
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- [Keylogger with Email Capability Using Python](https://github.com/joshmadakor1/Key-Logger-With-Email)  
 
 
 
