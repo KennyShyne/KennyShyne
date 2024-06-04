@@ -4,30 +4,28 @@
 
 - [Cisco Certified Network Associate(CCNA 200 - 301) ](https://github.com/KennyShyne/Network-Engineering-Projects)
 
+&nbsp;
 
 <h2>👨‍💻 Cybersecurity Projects:</h2> 
 
 - [My Attack and Defense Home Lab Overview and Setup) ](https://github.com/KennyShyne/CyberSecurity-Projects)
 
-- <b>Web Applications Security</b>
 
-- <b>Mobile Security</b>
-
+&nbsp;
 
 <h2>👨‍💻 Programming Projects:</h2>
 
 - [Showing Wifi Connections and Password On Windows 10](https://github.com/KennyShyne/Programming-Projects#programming-projects)
 
 
-<h2>👨‍💻 Cloud Projects:</h2>
-
-
+&nbsp;
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="ShyneKenny | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/shine-k
+
 
 <!--
 **KennyShyne/KennyShyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
